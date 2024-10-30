@@ -1,0 +1,22 @@
+[
+    {
+        "package": "nima",
+        "url": "https://github.com/nhejazi/nima"
+    },
+    {
+        "package": "haldensify",
+        "url": "https://github.com/nhejazi/haldensify"
+    },
+    {
+        "package": "txshift",
+        "url": "https://github.com/nhejazi/txshift"
+    },
+    {
+        "package": "biotmle",
+        "url": "https://github.com/nhejazi/biotmle"
+    },
+    {
+        "package": "medoutcon",
+        "url": "https://github.com/nhejazi/medoutcon"
+    }
+]
