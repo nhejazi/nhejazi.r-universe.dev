@@ -16,6 +16,10 @@
         "url": "https://github.com/nhejazi/biotmle"
     },
     {
+        "package": "medshift",
+        "url": "https://github.com/nhejazi/medshift"
+    },
+    {
         "package": "medoutcon",
         "url": "https://github.com/nhejazi/medoutcon"
     }
